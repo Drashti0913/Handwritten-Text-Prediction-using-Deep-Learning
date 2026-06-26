@@ -7,7 +7,6 @@
 ![Dataset](https://img.shields.io/badge/Dataset-IAM%20Handwriting-green?style=flat-square)
 ![Params](https://img.shields.io/badge/Parameters-26.9M-purple?style=flat-square)
 ![Loss](https://img.shields.io/badge/Loss-CTC-orange?style=flat-square)
-
 ---
 
 ## Overview
